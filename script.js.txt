@@ -1,0 +1,3 @@
+function mostrarIP() {
+  document.getElementById("ip").innerText = "IP del mundo: play.creeperworld.net";
+}

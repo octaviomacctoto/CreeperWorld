@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Bienvenido a CreeperWorld 😎</h1>
+  <p>Juega con amigos todas las modalidades disponibles</p>
+  <button onclick="mostrarIP()">Click acá para ver la IP del mundo</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
